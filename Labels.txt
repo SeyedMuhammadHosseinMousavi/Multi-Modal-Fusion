@@ -1,0 +1,6 @@
+Quad_Cat
+
+0 = HAHV - High Arousal High Valence - top right (like excited, proud, surprised, and happy) 
+1 = LAHV - Low Arousal High Valence - bottom right (like relaxed, calm, glad, and satisfied)
+2 = LALV - Low Arousal Low Valence - bottom left (like bored, sad, and disgusted)
+3 = HALV - High Arousal Low Valence - top left (like anxious, frustrated, fear, and worry) 
