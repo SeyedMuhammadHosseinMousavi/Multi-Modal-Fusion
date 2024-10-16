@@ -6,6 +6,7 @@ This repository contains various multimodal fusion methods for combining data fr
 
 ## Overview
 Multimodal fusion aims to combine data from multiple sources to make more accurate predictions by utilizing the strengths of each modality. This project implements fusion techniques using **concatenation**, **autoencoders**, **CNN**, **LSTM**, **PCA**, **SVM**, and **XGBoost** models. It also explores **voting mechanisms** and **attention-weighted approaches** in hybrid models.
+![Multimodal Fusion ](https://github.com/user-attachments/assets/871ffe90-31dc-4989-9384-b9cdeb1f4b1c)
 
 ### Early Stage Fusion
 In early stage fusion, the features from each modality are concatenated at the feature level before classification. Here are the implementations:
@@ -42,8 +43,4 @@ The dataset includes features extracted from three modalities:
 
 These files contain time-series and physiological data, which are preprocessed and combined using the above-mentioned fusion techniques.
 
-## Requirements
-Install the required libraries using the following command:
 
-```bash
-pip install -r requirements.txt
