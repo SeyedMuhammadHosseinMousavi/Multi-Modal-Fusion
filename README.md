@@ -43,6 +43,5 @@ The dataset includes features extracted from three modalities:
 - Download the dataset from:
 - https://www.kaggle.com/datasets/lumaatabbaa/vr-eyes-emotions-dataset-vreed
 
-These files contain time-series and physiological data, which are preprocessed and combined using the above-mentioned fusion techniques.
 
 
