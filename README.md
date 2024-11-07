@@ -2,6 +2,8 @@
 Early Fusion, Late Fusion, and Hybrid Fusion on Emotion Recognition Physiological Data
 # Multimodal Fusion Techniques for Machine Learning
 
+October 2024 / Lugano / Switzerland
+#
 This repository contains various multimodal fusion methods for combining data from different modalities (Eye Tracking, GSR, ECG). The repository explores **Early Stage**, **Late Stage**, and **Hybrid Fusion** approaches to improve classification performance on fused datasets.
 
 ## Overview
